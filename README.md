@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">A Full-Stack Software Engineer, passionate about Data Science and IoT</h3>
 
 <p align="center">
-  <img src="https://img.icons8.com/ios/50/000000/git.png" alt="git" width="20" height="20"/> 
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="20" height="20"/> 
   
@@ -40,6 +40,45 @@ Here are some ideas to get you started:
   
   <img src="https://img.icons8.com/nolan/64/api-settings.png" alt="rest-api" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql" width="20" height="20"/> 
-  
-  
 </p>
+
+## The summary of my repos
+
+### Data Science related
+- [Exercises](https://github.com/Caruso33/data_science_machine_learning)
+- [DeepLearning.ai](https://github.com/Caruso33/deeplearning-ai)
+- [Machine Learning Stanford](https://github.com/Caruso33/machine-learning-stanford)
+
+#### Forks
+- [Deep Learning.ai NLP](https://github.com/Caruso33/Deeplearning.ai-Natural-Language-Processing-Specialization)
+- [FastAI Fastbook](https://github.com/Caruso33/fastbook)
+- [FastAI Course v4](https://github.com/Caruso33/course-v4)
+- [FastAI NLP](https://github.com/Caruso33/course-nlp)
+- [StyleGANv2](https://github.com/Caruso33/stylegan2)
+- [Udacity Data Engineering](https://github.com/Caruso33/20_udacity_dse)
+- [Practical Statistics for Data Scientists](https://github.com/Caruso33/practical-statistics-for-data-scientists)
+
+## Web Development related
+- [Jest testing basics](https://github.com/Caruso33/testing_basics)
+- [GraphQL Tutorial with Prisma](https://github.com/Caruso33/graphql)
+- [Udemy Grider React Redux](https://github.com/Caruso33/grider-react-redux-course)
+- [Udemy Django](https://github.com/Caruso33/django)
+- [D3](https://github.com/Caruso33/d3)
+
+## General Programming related
+- [Algorithms & Data Structures](https://github.com/Caruso33/algos_data_structures)
+- [Docker & Kubernetes](https://github.com/Caruso33/docker-kubernetes)
+- [Rust](https://github.com/Caruso33/rust)
+- [Modern JavaScript](https://github.com/Caruso33/modern-javascript)
+
+## Own projects
+- [Pomodoro](https://github.com/Caruso33/pomodoR)
+- [Time Series Anomaly](https://github.com/Caruso33/time_series_anomaly)
+- [Own website](https://github.com/Caruso33/Caruso33.github.io)
+- [Mushroom Classifier](https://github.com/Caruso33/mushroom)
+
+## This & That
+- [FastAI python jupyter projects](https://github.com/Caruso33/nbdev)
+- [FastAI blogging platform based on jupyter notebooks](https://github.com/Caruso33/fastpages)
+- [FastAI docker containers](https://github.com/Caruso33/docker-containers)
+- [Git CI CD](https://github.com/Caruso33/git-ci-cd)
