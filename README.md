@@ -44,79 +44,76 @@ Here are some ideas to get you started:
 
 ## The summary of my repos
 
-### Data Science related
+### Data Science
 - [Exercises](https://github.com/Caruso33/data_science_machine_learning)
-- [DeepLearning.ai](https://github.com/Caruso33/deeplearning-ai)
-- [Machine Learning Stanford](https://github.com/Caruso33/machine-learning-stanford)
+- [DeepLearning.ai](https://github.com/Caruso33/deeplearning-ai) & [Machine Learning Stanford](https://github.com/Caruso33/machine-learning-stanford)
 
 #### Forks
-- [Deep Learning.ai NLP](https://github.com/Caruso33/Deeplearning.ai-Natural-Language-Processing-Specialization)
-- [Deep Learning.ai Tensorflow](https://github.com/Caruso33/dlaicourse)
-- [FastAI Fastbook](https://github.com/Caruso33/fastbook)
-- [FastAI Course v4](https://github.com/Caruso33/course-v4)
-- [FastAI NLP](https://github.com/Caruso33/course-nlp)
-- [StyleGANv2](https://github.com/Caruso33/stylegan2)
-- [Udacity Data Engineering](https://github.com/Caruso33/20_udacity_dse)
-- [Udacity Deep Reinforcement Learning](https://github.com/Caruso33/19_udacity_drlnd)
-- [Udacity Artificial Intelligence](https://github.com/Caruso33/18_udacity_aind)
-- [Practical Statistics for Data Scientists](https://github.com/Caruso33/practical-statistics-for-data-scientists)
+- [Deep Learning.ai NLP](https://github.com/Caruso33/Deeplearning.ai-Natural-Language-Processing-Specialization) & [Deep Learning.ai Tensorflow](https://github.com/Caruso33/dlaicourse)
+- [FastAI Fastbook](https://github.com/Caruso33/fastbook) & [FastAI Course v4](https://github.com/Caruso33/course-v4) & [FastAI NLP](https://github.com/Caruso33/course-nlp)
+- [Udacity Data Engineering](https://github.com/Caruso33/20_udacity_dse) & [Udacity Deep Reinforcement Learning](https://github.com/Caruso33/19_udacity_drlnd) & [Udacity Artificial Intelligence](https://github.com/Caruso33/18_udacity_aind)
 - [Full Stack Deep Learning](https://github.com/Caruso33/fsdl-text-recognizer-project)
-- [Numerical Linear Algebra](https://github.com/Caruso33/numerical-linear-algebra)
-- [Bayesian for Hackers](https://github.com/Caruso33/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+
+#### Other
+
+- [StyleGANv2](https://github.com/Caruso33/stylegan2), [Practical Statistics for Data Scientists](https://github.com/Caruso33/practical-statistics-for-data-scientists), [Numerical Linear Algebra](https://github.com/Caruso33/numerical-linear-algebra),
+[Bayesian for Hackers](https://github.com/Caruso33/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+
+#### Books
 - [Free Deep Learning Books](https://github.com/Caruso33/Free-Deep-Learning-Books)
 - [Data Science Books](https://github.com/Caruso33/Data-Science-Books-1)
 
-## Web Development related
+## Web Development
+
+### Courses
+#### Udacity
+
 - [Udacity Mobile Web Specialist](https://github.com/Caruso33/mobile-web-developer)
-- [Jest testing basics](https://github.com/Caruso33/testing_basics)
-- [Testing Workshop](https://github.com/Caruso33/testing-workshop)
-- [React Testing Workshop](https://github.com/Caruso33/react-testing-workshop)
-- [Advanced React Patterns](https://github.com/Caruso33/advanced-react-patterns-v2)
-- [GraphQL Tutorial with Prisma](https://github.com/Caruso33/graphql)
-- [Udemy Grider React Redux](https://github.com/Caruso33/grider-react-redux-course)
-- [Udemy Django](https://github.com/Caruso33/django)
-- [D3](https://github.com/Caruso33/d3)
-- [Advanced CSS](https://github.com/Caruso33/advanced-css-course)
-- [React Typescript Cheatsheet](https://github.com/Caruso33/react-typescript-cheatsheet)
-- [DIY React](https://github.com/Caruso33/didact)
-- [Webpack](https://github.com/Caruso33/webpack-demo-app)
-- [Code Realm Tutorials](https://github.com/Caruso33/code-realm-courses)
-- [Udemy Mead Nodejs](https://github.com/Caruso33/mead-node-course)
-- [Udemy Web Dev Bootcamp Beginner + Advanced](https://github.com/Caruso33/web-dev-bootcamp-beginner-advanced)
-- [Udemy Grider Fullstack React](https://github.com/Caruso33/grider-fullStack-react-course)
 - [Udacity Progressive Web Apps](https://github.com/Caruso33/progressive-web-apps)
 - [Udacity Design Patterns](https://github.com/Caruso33/progressive-web-apps)
-- [Udemy Mead Meteor Fullstack](https://github.com/Caruso33/mead-meteor-fullStack-course)
 
-## General Programming related
+#### Udemy
+- [Udemy Mead GraphQL with Prisma](https://github.com/Caruso33/graphql), [Udemy Mead Nodejs](https://github.com/Caruso33/mead-node-course), [Udemy Mead Meteor Fullstack](https://github.com/Caruso33/mead-meteor-fullStack-course)
+- [Udemy Grider React Redux](https://github.com/Caruso33/grider-react-redux-course),
+ [Udemy Grider Fullstack React](https://github.com/Caruso33/grider-fullStack-react-course)
+- [Udemy Django](https://github.com/Caruso33/django)
+- [Udemy Advanced CSS](https://github.com/Caruso33/advanced-css-course)
+- [Udemy Web Dev Bootcamp Beginner + Advanced](https://github.com/Caruso33/web-dev-bootcamp-beginner-advanced)
+
+### Other
+- [D3](https://github.com/Caruso33/d3)
+- [Jest testing basics](https://github.com/Caruso33/testing_basics), [Testing Workshop](https://github.com/Caruso33/testing-workshop), [React Testing Workshop](https://github.com/Caruso33/react-testing-workshop)
+- [Advanced React Patterns](https://github.com/Caruso33/advanced-react-patterns-v2), [DIY React](https://github.com/Caruso33/didact), [React Typescript Cheatsheet](https://github.com/Caruso33/react-typescript-cheatsheet)
+- [Webpack](https://github.com/Caruso33/webpack-demo-app)
+- [Code Realm Tutorials](https://github.com/Caruso33/code-realm-courses)
+
+## General Programming
 - [Algorithms & Data Structures](https://github.com/Caruso33/algos_data_structures)
 - [Docker & Kubernetes](https://github.com/Caruso33/docker-kubernetes)
 - [Rust](https://github.com/Caruso33/rust)
-- [Modern JavaScript](https://github.com/Caruso33/modern-javascript)
+- [Modern JavaScript](https://github.com/Caruso33/modern-javascript), [JavaScript Crash Course](https://github.com/Caruso33/vf-javascript-crash-course)
 - [System Design Primer](https://github.com/Caruso33/system-design-primer)
-- [JavaScript Crash Course](https://github.com/Caruso33/vf-javascript-crash-course)
+
 
 ## Own projects
 - [Udacity Mobile Web Specialist](https://github.com/Caruso33/mws-project)
-- [Pomodoro](https://github.com/Caruso33/pomodoR)
-- [JS Calculator](https://github.com/Caruso33/JS-Calculator)
+- [Pomodoro](https://github.com/Caruso33/pomodoR), [JS Calculator](https://github.com/Caruso33/JS-Calculator)
 - [Time Series Anomaly](https://github.com/Caruso33/time_series_anomaly)
 - [Own website](https://github.com/Caruso33/Caruso33.github.io)
 - [Mushroom Classifier](https://github.com/Caruso33/mushroom)
-- [Barcode Creation & Scanning](https://github.com/Caruso33/barcode-create-scan)
+- [Barcode Creation & Scanning](https://github.com/Caruso33/barcode-create-scan), [Fullstack Client-Server Auth](https://github.com/Caruso33/auth-client-server)
 - [React 3rd party integration](https://github.com/Caruso33/react-3rd-party-integration)
-- [Fullstack Client-Server Auth](https://github.com/Caruso33/auth-client-server)
 
 ## This & That
-- [FastAI python jupyter projects](https://github.com/Caruso33/nbdev)
-- [FastAI blogging platform based on jupyter notebooks](https://github.com/Caruso33/fastpages)
-- [FastAI docker containers](https://github.com/Caruso33/docker-containers)
-- [Git CI CD](https://github.com/Caruso33/git-ci-cd)
-- [Interview Prep](https://github.com/Caruso33/interview)
-- [Frontend Interview Prep](https://github.com/Caruso33/Front-end-Developer-Interview-Questions)
-- [Shell](https://github.com/Caruso33/shell)
+
+### FastAI
+- [FastAI python jupyter projects](https://github.com/Caruso33/nbdev), [FastAI blogging platform based on jupyter notebooks](https://github.com/Caruso33/fastpages), [FastAI docker containers](https://github.com/Caruso33/docker-containers)
+
+### Other
+- [Interview Prep](https://github.com/Caruso33/interview), [Frontend Interview Prep](https://github.com/Caruso33/Front-end-Developer-Interview-Questions)
 - [Nand2Tetris](https://github.com/Caruso33/nand2tetris)
 - [Ethereum - Solidity Smart Contract](https://github.com/Caruso33/ethereum)
 - [FreeCodeCamp](https://github.com/Caruso33/freeCodeCamp)
 - [Simple NodeJS Blockchain](https://github.com/Caruso33/BrewChain)
-- [Learn Github](https://github.com/Caruso33/lGithub)
+- [Git CI CD](https://github.com/Caruso33/git-ci-cd)
+- [Learn Github](https://github.com/Caruso33/lGithub), [Shell](https://github.com/Caruso33/shell)
