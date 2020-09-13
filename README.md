@@ -63,6 +63,8 @@ Here are some ideas to get you started:
 - [Full Stack Deep Learning](https://github.com/Caruso33/fsdl-text-recognizer-project)
 - [Numerical Linear Algebra](https://github.com/Caruso33/numerical-linear-algebra)
 - [Bayesian for Hackers](https://github.com/Caruso33/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+- [Free Deep Learning Books](https://github.com/Caruso33/Free-Deep-Learning-Books)
+- [Data Science Books](https://github.com/Caruso33/Data-Science-Books-1)
 
 ## Web Development related
 - [Udacity Mobile Web Specialist](https://github.com/Caruso33/mobile-web-developer)
@@ -84,6 +86,7 @@ Here are some ideas to get you started:
 - [Udemy Grider Fullstack React](https://github.com/Caruso33/grider-fullStack-react-course)
 - [Udacity Progressive Web Apps](https://github.com/Caruso33/progressive-web-apps)
 - [Udacity Design Patterns](https://github.com/Caruso33/progressive-web-apps)
+- [Udemy Mead Meteor Fullstack](https://github.com/Caruso33/mead-meteor-fullStack-course)
 
 ## General Programming related
 - [Algorithms & Data Structures](https://github.com/Caruso33/algos_data_structures)
@@ -91,6 +94,7 @@ Here are some ideas to get you started:
 - [Rust](https://github.com/Caruso33/rust)
 - [Modern JavaScript](https://github.com/Caruso33/modern-javascript)
 - [System Design Primer](https://github.com/Caruso33/system-design-primer)
+- [JavaScript Crash Course](https://github.com/Caruso33/vf-javascript-crash-course)
 
 ## Own projects
 - [Udacity Mobile Web Specialist](https://github.com/Caruso33/mws-project)
@@ -99,6 +103,9 @@ Here are some ideas to get you started:
 - [Time Series Anomaly](https://github.com/Caruso33/time_series_anomaly)
 - [Own website](https://github.com/Caruso33/Caruso33.github.io)
 - [Mushroom Classifier](https://github.com/Caruso33/mushroom)
+- [Barcode Creation & Scanning](https://github.com/Caruso33/barcode-create-scan)
+- [React 3rd party integration](https://github.com/Caruso33/react-3rd-party-integration)
+- [Fullstack Client-Server Auth](https://github.com/Caruso33/auth-client-server)
 
 ## This & That
 - [FastAI python jupyter projects](https://github.com/Caruso33/nbdev)
@@ -110,3 +117,6 @@ Here are some ideas to get you started:
 - [Shell](https://github.com/Caruso33/shell)
 - [Nand2Tetris](https://github.com/Caruso33/nand2tetris)
 - [Ethereum - Solidity Smart Contract](https://github.com/Caruso33/ethereum)
+- [FreeCodeCamp](https://github.com/Caruso33/freeCodeCamp)
+- [Simple NodeJS Blockchain](https://github.com/Caruso33/BrewChain)
+- [Learn Github](https://github.com/Caruso33/lGithub)
