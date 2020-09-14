@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 #### Other
 
 - [StyleGANv2](https://github.com/Caruso33/stylegan2), [Practical Statistics for Data Scientists](https://github.com/Caruso33/practical-statistics-for-data-scientists), [Numerical Linear Algebra](https://github.com/Caruso33/numerical-linear-algebra),
-[GANs](https://github.com/Caruso33/gans),
+[GANs](https://github.com/Caruso33/gans), [PyTorch GANs](https://github.com/eriklindernoren/PyTorch-GAN),
 [Bayesian for Hackers](https://github.com/Caruso33/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
 #### Books
