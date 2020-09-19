@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 - [FastAI Fastbook](https://github.com/Caruso33/fastbook) & [FastAI Course v4](https://github.com/Caruso33/course-v4) & [FastAI NLP](https://github.com/Caruso33/course-nlp)
 - [Udacity Data Engineering](https://github.com/Caruso33/20_udacity_dse) & [Udacity Deep Reinforcement Learning](https://github.com/Caruso33/19_udacity_drlnd) & [Udacity Artificial Intelligence](https://github.com/Caruso33/18_udacity_aind)
 - [Full Stack Deep Learning](https://github.com/Caruso33/fsdl-text-recognizer-project)
+- [Coursera - How to win a data science competition](https://github.com/Caruso33/Advanced-Machine-Learning-Specialization)
 
 #### Other
 
