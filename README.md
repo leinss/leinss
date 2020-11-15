@@ -68,8 +68,8 @@ Here are some ideas to get you started:
 ## Web Development
 
 ### Courses
-#### Udacity
 
+#### Udacity
 - [Udacity Mobile Web Specialist](https://github.com/Caruso33/mobile-web-developer)
 - [Udacity Progressive Web Apps](https://github.com/Caruso33/progressive-web-apps)
 - [Udacity Design Patterns](https://github.com/Caruso33/progressive-web-apps)
@@ -98,6 +98,8 @@ Here are some ideas to get you started:
 
 
 ## Own projects
+- [Queue App](https://github.com/Caruso33/queue_app)
+- [Traefik Multicontainer App](https://github.com/Caruso33/traefik)
 - [Udacity Mobile Web Specialist](https://github.com/Caruso33/mws-project)
 - [Pomodoro](https://github.com/Caruso33/pomodoR), [JS Calculator](https://github.com/Caruso33/JS-Calculator)
 - [Time Series Anomaly](https://github.com/Caruso33/time_series_anomaly)
