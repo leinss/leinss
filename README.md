@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Tobias Leinss </h1>
 
-<h3 align="center">A Full-Stack Software Engineer, passionate about Data Science and IoT</h3>
+<h3 align="center">A Full-Stack Software Engineer, who is now passionately working on Data Science and IoT</h3>
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
