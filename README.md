@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 #### Forks
 - [Deep Learning.ai NLP](https://github.com/Caruso33/Deeplearning.ai-Natural-Language-Processing-Specialization) & [Deep Learning.ai Tensorflow](https://github.com/Caruso33/dlaicourse)
-- [FastAI Fastbook](https://github.com/Caruso33/fastbook) & [FastAI Course v4](https://github.com/Caruso33/course-v4) & [FastAI NLP](https://github.com/Caruso33/course-nlp)
+- [FastAI Fastbook](https://github.com/Caruso33/fastbook) & [FastAI NLP](https://github.com/Caruso33/course-nlp)
 - [Udacity Data Engineering](https://github.com/Caruso33/20_udacity_dse) & [Udacity Deep Reinforcement Learning](https://github.com/Caruso33/19_udacity_drlnd) & [Udacity Artificial Intelligence](https://github.com/Caruso33/18_udacity_aind)
 - [Full Stack Deep Learning](https://github.com/Caruso33/fsdl-text-recognizer-project)
 - [Coursera - Advanced Machine Learning Specialization](https://github.com/Caruso33/Advanced-Machine-Learning-Specialization), [Udacity Machine Learning](https://github.com/Caruso33/ud120-machine-learning)
