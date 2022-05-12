@@ -44,6 +44,10 @@ Here are some ideas to get you started:
 
 ## The summary of my repos
 
+### Blockchain / crypto / web3
+
+- [Different kind of tutorials - also the blockchain developer nanodegree of udacity included](github.com/caruso33/blockchain_dapps/)
+
 ### Data Science
 - [Exercises](https://github.com/Caruso33/data_science_machine_learning)
 - [DeepLearning.ai](https://github.com/Caruso33/deeplearning-ai) & [Machine Learning Stanford](https://github.com/Caruso33/machine-learning-stanford)
