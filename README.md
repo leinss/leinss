@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ### Blockchain / crypto / web3
 
-- [Different kind of tutorials - also the blockchain developer nanodegree of udacity included](github.com/caruso33/blockchain_dapps/)
+- [Many tutorials - also the blockchain developer nanodegree of udacity included](github.com/caruso33/blockchain_dapps/)
 
 ### Data Science
 - [Exercises](https://github.com/Caruso33/data_science_machine_learning)
