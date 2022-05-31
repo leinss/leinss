@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Tobias Leinss </h1>
 
 <h3 align="center">A Full-Stack Software Engineer, who is now passionately working on Web3 and blockchain related projects</h3>
+<h3 align="center">Let us work together in this fascinating new ecospace ₿🚀 !</h3>
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
@@ -49,10 +50,12 @@ Here are some ideas to get you started:
 - [Many tutorials - also the blockchain developer nanodegree of udacity included](github.com/caruso33/blockchain_dapps/)
 
 ### Data Science
+
 - [Exercises](https://github.com/Caruso33/data_science_machine_learning)
 - [DeepLearning.ai](https://github.com/Caruso33/deeplearning-ai) & [Machine Learning Stanford](https://github.com/Caruso33/machine-learning-stanford)
 
 #### Forks
+
 - [Deep Learning.ai NLP](https://github.com/Caruso33/Deeplearning.ai-Natural-Language-Processing-Specialization) & [Deep Learning.ai Tensorflow](https://github.com/Caruso33/dlaicourse)
 - [FastAI Fastbook](https://github.com/Caruso33/fastbook) & [FastAI NLP](https://github.com/Caruso33/course-nlp)
 - [Udacity Data Engineering](https://github.com/Caruso33/20_udacity_dse) & [Udacity Deep Reinforcement Learning](https://github.com/Caruso33/19_udacity_drlnd) & [Udacity Artificial Intelligence](https://github.com/Caruso33/18_udacity_aind)
@@ -62,10 +65,11 @@ Here are some ideas to get you started:
 #### Other
 
 - [StyleGANv2](https://github.com/Caruso33/stylegan2), [Practical Statistics for Data Scientists](https://github.com/Caruso33/practical-statistics-for-data-scientists), [Numerical Linear Algebra](https://github.com/Caruso33/numerical-linear-algebra),
-[GANs](https://github.com/Caruso33/gans), [PyTorch GANs](https://github.com/eriklindernoren/PyTorch-GAN),
-[Bayesian for Hackers](https://github.com/Caruso33/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+  [GANs](https://github.com/Caruso33/gans), [PyTorch GANs](https://github.com/eriklindernoren/PyTorch-GAN),
+  [Bayesian for Hackers](https://github.com/Caruso33/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
 #### Books
+
 - [Free Deep Learning Books](https://github.com/Caruso33/Free-Deep-Learning-Books)
 - [Data Science Books](https://github.com/Caruso33/Data-Science-Books-1)
 
@@ -74,19 +78,22 @@ Here are some ideas to get you started:
 ### Courses
 
 #### Udacity
+
 - [Udacity Mobile Web Specialist](https://github.com/Caruso33/mobile-web-developer)
 - [Udacity Progressive Web Apps](https://github.com/Caruso33/progressive-web-apps)
 - [Udacity Design Patterns](https://github.com/Caruso33/progressive-web-apps)
 
 #### Udemy
+
 - [Udemy Mead GraphQL with Prisma](https://github.com/Caruso33/graphql), [Udemy Mead Nodejs](https://github.com/Caruso33/mead-node-course), [Udemy Mead Meteor Fullstack](https://github.com/Caruso33/mead-meteor-fullStack-course)
 - [Udemy Grider React Redux](https://github.com/Caruso33/grider-react-redux-course),
- [Udemy Grider Fullstack React](https://github.com/Caruso33/grider-fullStack-react-course)
+  [Udemy Grider Fullstack React](https://github.com/Caruso33/grider-fullStack-react-course)
 - [Udemy Django](https://github.com/Caruso33/django)
 - [Udemy Advanced CSS](https://github.com/Caruso33/advanced-css-course)
 - [Udemy Web Dev Bootcamp Beginner + Advanced](https://github.com/Caruso33/web-dev-bootcamp-beginner-advanced)
 
 ### Other
+
 - [D3](https://github.com/Caruso33/d3)
 - [Jest testing basics](https://github.com/Caruso33/testing_basics), [Testing Workshop](https://github.com/Caruso33/testing-workshop), [React Testing Workshop](https://github.com/Caruso33/react-testing-workshop)
 - [Advanced React Patterns](https://github.com/Caruso33/advanced-react-patterns-v2), [DIY React](https://github.com/Caruso33/didact), [React Typescript Cheatsheet](https://github.com/Caruso33/react-typescript-cheatsheet)
@@ -94,14 +101,15 @@ Here are some ideas to get you started:
 - [Code Realm Tutorials](https://github.com/Caruso33/code-realm-courses)
 
 ## General Programming
+
 - [Algorithms & Data Structures](https://github.com/Caruso33/algos_data_structures)
 - [Docker & Kubernetes](https://github.com/Caruso33/docker-kubernetes)
 - [Rust](https://github.com/Caruso33/rust)
 - [Modern JavaScript](https://github.com/Caruso33/modern-javascript), [JavaScript Crash Course](https://github.com/Caruso33/vf-javascript-crash-course)
 - [System Design Primer](https://github.com/Caruso33/system-design-primer)
 
-
 ## Own projects
+
 - [Queue App](https://github.com/Caruso33/queue_app)
 - [Traefik Multicontainer App](https://github.com/Caruso33/traefik)
 - [Udacity Mobile Web Specialist](https://github.com/Caruso33/mws-project)
@@ -115,9 +123,11 @@ Here are some ideas to get you started:
 ## This & That
 
 ### FastAI
+
 - [FastAI python jupyter projects](https://github.com/Caruso33/nbdev), [FastAI blogging platform based on jupyter notebooks](https://github.com/Caruso33/fastpages), [FastAI docker containers](https://github.com/Caruso33/docker-containers)
 
 ### Other
+
 - [Interview Prep](https://github.com/Caruso33/interview), [Frontend Interview Prep](https://github.com/Caruso33/Front-end-Developer-Interview-Questions)
 - [Nand2Tetris](https://github.com/Caruso33/nand2tetris)
 - [Ethereum - Solidity Smart Contract](https://github.com/Caruso33/ethereum)
