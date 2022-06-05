@@ -20,19 +20,38 @@ Here are some ideas to get you started:
 <h3 align="center">A Full-Stack Software Engineer, who is now passionately working on Web3 and blockchain related projects</h3>
 <h3 align="center">Let us work together in this fascinating new ecospace 🚀 !</h3>
 
-<div style="margin-top: 1rem;" />
+<div style="margin-top: 16px;" />
 
 <h3 align="center">I'm up for hire for freelancing and consultancy jobs.</h3>
 <h3 align="center">You can reach me by email at leinsst 'at' web 'dot' de</h3>
 
-<div style="margin-top: 3rem;" />
+<div style="margin-top: 48px;" />
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-leinss/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/caruso33)
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fleinss.xyz)](https://leinss.xyz)
 
-<div style="margin-top: 3rem;" />
+<div style="margin-top: 48px;" />
+
+### The tools I use
+
+- Web
+  - Reactjs
+  - Nodejs
+  - Python
+- APIs
+  - REST
+  - GRAPHQL
+- Blockchain
+  - Solidity
+- Mobile
+  - React-Native
+- Data Streaming
+  - Apache Kafka
+- DevOps
+  - Docker
+  - Kubernetes
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
