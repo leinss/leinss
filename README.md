@@ -33,24 +33,18 @@ Here are some ideas to get you started:
 
 <div style="margin-top: 48px;" />
 
-### The tools I use
+### Experience & tools I use
 
-- Web
-  - Reactjs
-  - Nodejs
-  - Python
-- APIs
-  - REST
-  - GRAPHQL
-- Blockchain
-  - Solidity
-- Mobile
-  - React-Native
-- Data Streaming
-  - Apache Kafka
-- DevOps
-  - Docker
-  - Kubernetes
+My experience includes web and mobile apps as well as data streaming applications and blockchain focused decentralized apps.
+
+My toolset:
+
+- Web >> Reactjs & Nodejs & Python
+- APIs >> REST & GRAPHQL
+- Blockchain >> Solidity
+- Mobile >> React-Native
+- Data Streaming >> Apache Kafka
+- DevOps >> Docker & Kubernetes
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
