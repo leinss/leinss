@@ -44,7 +44,7 @@ My toolset:
 - Blockchain >> Solidity
 - Mobile >> React-Native
 - Data Streaming >> Apache Kafka
-- DevOps >> Docker & Kubernetes
+- DevOps >> Docker
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
