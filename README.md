@@ -75,7 +75,7 @@ My toolset:
 
 ### Blockchain / crypto / web3
 
-- [Many tutorials - also the blockchain developer nanodegree of udacity included](github.com/caruso33/blockchain_dapps/)
+- [Many tutorials - also the blockchain developer nanodegree of udacity included](https://github.com/caruso33/blockchain_dapps/)
 
 ### Data Science
 
