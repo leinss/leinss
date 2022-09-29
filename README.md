@@ -69,11 +69,13 @@ My toolset:
   <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql" width="20" height="20"/> 
 </p>
 
-<div style="margin-top: 3rem;" />
+[🔭 Find out what I’m currently working on](https://leinss.xyz/now)  
+
+<div style="margin-top: 50px;"></div>
 
 ## The summary of my repos
 
-### Blockchain / crypto / web3
+### Blockchain / crypto / web3 - mostly tutorials
 
 - [Solidity](https://github.com/caruso33/solidity/)  
 - [Udacity Blockchain Developer Nanodegree](https://github.com/Caruso33/udacity_blockchain_developer)  
@@ -156,7 +158,7 @@ My toolset:
 - [Modern JavaScript](https://github.com/Caruso33/modern-javascript), [JavaScript Crash Course](https://github.com/Caruso33/vf-javascript-crash-course)
 - [System Design Primer](https://github.com/Caruso33/system-design-primer)
 
-## Own projects
+## Older own projects
 
 - [Queue App](https://github.com/Caruso33/queue_app)
 - [Traefik Multicontainer App](https://github.com/Caruso33/traefik)
