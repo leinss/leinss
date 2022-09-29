@@ -91,15 +91,15 @@ My toolset:
 - [Avatar Marketplace](https://github.com/Caruso33/avatar_nft_marketplace)  
 - [Inveth - DeFi Investing for N0bs](https://github.com/Caruso33/invetht)  
 
-### Data Science
-
-- [Exercises](https://github.com/Caruso33/data_science_machine_learning)
-- [DeepLearning.ai](https://github.com/Caruso33/deeplearning-ai) & [Machine Learning Stanford](https://github.com/Caruso33/machine-learning-stanford)
-
 ### Coding Challenges
 
 - [Rick'n Morty (NextJs, GraphQL, Hasura, TypeScript)](https://github.com/caruso33/rick_n_morty_coding_challenge)  
-- [Project Euler](https://github.com/Caruso33/project_euler/)  
+- [Project Euler](https://github.com/Caruso33/project_euler/) 
+
+### Data Science
+
+- [Exercises](https://github.com/Caruso33/data_science_machine_learning)
+- [DeepLearning.ai](https://github.com/Caruso33/deeplearning-ai) & [Machine Learning Stanford](https://github.com/Caruso33/machine-learning-stanford)  
 
 #### Forks
 
