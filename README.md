@@ -75,7 +75,7 @@ My toolset:
 
 ### Blockchain / crypto / web3
 
-- [Solidity](https://github.com/caruso33/blockchain_dapps/)  
+- [Solidity](https://github.com/caruso33/solidity/)  
 - [Udacity Blockchain Developer Nanodegree](https://github.com/Caruso33/udacity_blockchain_developer)  
 - [Encode Club - Solidity Bootcamp](https://github.com/caruso33/encode-club-solidity-bootcamp/)  
 - [DEX](https://github.com/caruso33/dex/)  
