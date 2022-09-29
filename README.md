@@ -75,7 +75,11 @@ My toolset:
 
 ### Blockchain / crypto / web3
 
-- [Many tutorials - also the blockchain developer nanodegree of udacity included](https://github.com/caruso33/blockchain_dapps/)
+- [Many tutorials - also the blockchain developer nanodegree of udacity included](https://github.com/caruso33/blockchain_dapps/)  
+- [DEX](https://github.com/caruso33/dex/)  
+- [Near](https://github.com/caruso33/near/)  
+- [Solana](https://github.com/caruso33/solana/)  
+- [Aptos / Move](https://github.com/caruso33/aptos_move/)  
 
 ### Data Science
 
