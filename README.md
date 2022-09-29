@@ -75,14 +75,15 @@ My toolset:
 
 ### Blockchain / crypto / web3
 
-- [Many tutorials - also the blockchain developer nanodegree of udacity included](https://github.com/caruso33/blockchain_dapps/)  
+- [Solidity](https://github.com/caruso33/blockchain_dapps/)  
+- [Udacity Blockchain Developer Nanodegree](https://github.com/Caruso33/udacity_blockchain_developer)  
+- [Encode Club - Solidity Bootcamp](https://github.com/caruso33/encode-club-solidity-bootcamp/)  
 - [DEX](https://github.com/caruso33/dex/)  
 - [Near](https://github.com/caruso33/near/)  
 - [Solana](https://github.com/caruso33/solana/)  
 - [Aptos / Move](https://github.com/caruso33/aptos_move/)  
 - [Polkadot / Substrate](https://github.com/caruso33/polkadot_substrate/)  
 - [ZK Bootcamp](https://github.com/caruso33/encode_zk_bootcamp/)  
-- [Solidity Bootcamp](https://github.com/caruso33/encode-club-solidity-bootcamp/)  
 
 ### Web3 Hackathons
 
