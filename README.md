@@ -80,11 +80,26 @@ My toolset:
 - [Near](https://github.com/caruso33/near/)  
 - [Solana](https://github.com/caruso33/solana/)  
 - [Aptos / Move](https://github.com/caruso33/aptos_move/)  
+- [Polkadot / Substrate](https://github.com/caruso33/polkadot_substrate/)  
+- [ZK Bootcamp](https://github.com/caruso33/encode_zk_bootcamp/)  
+- [Solidity Bootcamp](https://github.com/caruso33/encode-club-solidity-bootcamp/)  
+
+### Web3 Hackathons
+
+- [DAOs for Artists](https://github.com/Caruso33/DAO_for_artists)  
+- [Web3 Communities](https://github.com/Caruso33/web3_communities)  
+- [Avatar Marketplace](https://github.com/Caruso33/avatar_nft_marketplace)  
+- [Inveth - DeFi Investing for N0bs](https://github.com/Caruso33/invetht)  
 
 ### Data Science
 
 - [Exercises](https://github.com/Caruso33/data_science_machine_learning)
 - [DeepLearning.ai](https://github.com/Caruso33/deeplearning-ai) & [Machine Learning Stanford](https://github.com/Caruso33/machine-learning-stanford)
+
+### Coding Challenges
+
+- [Rick'n Morty (NextJs, GraphQL, Hasura, TypeScript)](https://github.com/caruso33/rick_n_morty_coding_challenge)  
+- [Project Euler](https://github.com/Caruso33/project_euler/)  
 
 #### Forks
 
