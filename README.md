@@ -39,7 +39,7 @@ My experience includes web and mobile apps as well as data streaming application
 My toolset:
 
 - Web >> Reactjs & Nodejs & Python
-- APIs >> REST & GRAPHQL
+- APIs >> REST & GraphQL
 - Blockchain >> Solidity, Rust (Near, Solana)
 - Mobile >> React-Native
 - Data Streaming >> Apache Kafka
