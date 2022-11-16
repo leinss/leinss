@@ -40,7 +40,7 @@ My toolset:
 
 - Web >> Reactjs & Nodejs & Python
 - APIs >> REST & GRAPHQL
-- Blockchain >> Solidity
+- Blockchain >> Solidity, Rust (Near, Solana)
 - Mobile >> React-Native
 - Data Streaming >> Apache Kafka
 - DevOps >> Docker
