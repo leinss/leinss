@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 <div style="margin-top: 16px;" />
 
-<h3 align="center">I'm up for hire for freelancing and consultancy jobs.</h3>
 <h3 align="center">You can reach me by email at leinsst 'at' web 'dot' de</h3>
 
 <div style="margin-top: 48px;" />
