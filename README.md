@@ -88,9 +88,13 @@ My toolset:
 
 ### Web3 Hackathons
 
+I am participating in the [NEAR MetaBUILD III Hack](https://metabuild.devpost.com/) where our project is [GroundOne](https://groundone.io/), [see here](https://github.com/GroundOne/metabuild) for the code base.
+
+Growing out of [EthLisbon](https://www.ethlisbon.org/) we continue buidling our project [Embrace Community](https://lets.embrace.community/), [see here](https://github.com/embrace-community/embrace-dapp) for the code base.
+
 - [DAOs for Artists](https://github.com/Caruso33/DAO_for_artists)  
-- [Web3 Communities](https://github.com/Caruso33/web3_communities)  
-- [Avatar Marketplace](https://github.com/Caruso33/avatar_nft_marketplace)  
+- [Web3 Communities](https://github.com/Caruso33/web3_communities) (solo)  
+- [Avatar Marketplace](https://github.com/Caruso33/avatar_nft_marketplace) (solo)  
 - [Inveth - DeFi Investing for N0bs](https://github.com/Caruso33/invetht)  
 
 ### Coding Challenges
