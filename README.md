@@ -88,6 +88,8 @@ My toolset:
 
 ### Web3 Hackathons
 
+I am a finalist and runner-up on best use case with [SPN DAO](https://ethglobal.com/showcase/spn-dao-zwbar) - a Data Dao which utilizes the FEVM on Filecoin at the EthGlobal - FEVM Hack with a team of 5.
+
 I am participating in the [NEAR MetaBUILD III Hack](https://metabuild.devpost.com/) where our project is [GroundOne](https://groundone.io/), [see here](https://github.com/GroundOne/metabuild) for the code base.
 
 Growing out of [EthLisbon](https://www.ethlisbon.org/) we continue buidling our project [Embrace Community](https://lets.embrace.community/), [see here](https://github.com/embrace-community/embrace-dapp) for the code base.
