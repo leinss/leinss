@@ -88,13 +88,13 @@ My toolset:
 
 ### Web3 Hackathons
 
-[EthGlobal Paris - zkPaymaster](https://ethglobal.com/showcase/zkpaymaster-dbooj).
+[EthGlobal Paris - zkPaymaster](https://ethglobal.com/showcase/zkpaymaster-dbooj). Enhancing account abstraction paymaster with zero-knowledge to enable any form of sponsorship of transaction fees in a private preserving way. Ethereum Foundation - Best ERC-4337, Sismo - Top 5, Biconomy - Best Use, MakerDAO - 2nd Best use of sDAI. 
 
-[EthGlobal HackFS Peer'n Pay](https://ethglobal.com/showcase/peer-n-pay-hc2hz).
+[EthGlobal HackFS Peer'n Pay](https://ethglobal.com/showcase/peer-n-pay-hc2hz). Bringing together p2p protocol and ethereum payments. Push Protocol - Top 20, ENS - Integration Prize.
 
-[EthPrague - TurtleShell](https://devfolio.co/projects/turtleshell-efef).
+[EthPrague - TurtleShell](https://devfolio.co/projects/turtleshell-efef). The Graph - Best use of Existing Subgraph(s), Taiko - Infrastructure, Mantle - Best Nft or Gaming Project, Scroll - Best ideas.
 
-[EthDam - StealthSend](https://taikai.network/cryptocanal/hackathons/ethdam/projects/clhvqtsit72287701wpkyv9ffwq/idea).
+[EthDam - StealthSend](https://taikai.network/cryptocanal/hackathons/ethdam/projects/clhvqtsit72287701wpkyv9ffwq/idea). Using [stealth address](https://github.com/nerolation/stealth-wallet), ERC-5564 and ERC-6538, to ensure transactional privacy on l2s.
 
 [EthZurich - Coffeine Consensus](https://devfolio.co/projects/caffeine-consensus-ee2b). Judges' favourites & 2nd place. Bringing together account abstraction, paymasters and x509 certificates.
 
