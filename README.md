@@ -88,6 +88,20 @@ My toolset:
 
 ### Web3 Hackathons
 
+[EthGlobal Paris - zkPaymaster](https://ethglobal.com/showcase/zkpaymaster-dbooj).
+
+[EthGlobal HackFS Peer'n Pay](https://ethglobal.com/showcase/peer-n-pay-hc2hz).
+
+[EthPrague - TurtleShell](https://devfolio.co/projects/turtleshell-efef).
+
+[EthDam - StealthSend](https://taikai.network/cryptocanal/hackathons/ethdam/projects/clhvqtsit72287701wpkyv9ffwq/idea).
+
+[EthZurich - Coffeine Consensus](https://devfolio.co/projects/caffeine-consensus-ee2b). Judges' favourites & 2nd place. Bringing together account abstraction, paymasters and x509 certificates.
+
+[EthGlobal Lisbon - TurtleShell](https://ethglobal.com/showcase/turtleshell-cs506). Optimism & The Graph prizes.
+
+[Encode.club Next Video Build - Embrace Community Github](https://github.com/embrace-community/embrace-dapp). [Video Submission](https://www.youtube.com/watch?v=THmN6lZJkns).
+
 I am a finalist and runner-up on best use case with [SPN DAO](https://ethglobal.com/showcase/spn-dao-zwbar) - a Data Dao which utilizes the FEVM on Filecoin at the EthGlobal - FEVM Hack with a team of 5.
 
 I am participating in the [NEAR MetaBUILD III Hack](https://metabuild.devpost.com/) where our project is [GroundOne](https://groundone.io/), [see here](https://github.com/GroundOne/metabuild) for the code base.
