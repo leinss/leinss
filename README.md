@@ -68,7 +68,10 @@ My toolset:
   <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql" width="20" height="20"/> 
 </p>
 
+
+<!--
 [🔭 Find out what I’m currently working on](https://leinss.xyz/now)  
+-->
 
 <div style="margin-top: 50px;"></div>
 
