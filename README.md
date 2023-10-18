@@ -40,10 +40,10 @@ My toolset:
 
 - Web >> Reactjs & Nodejs & Python
 - APIs >> REST & GraphQL
-- Blockchain >> Solidity, Rust (Near, Solana)
+- Blockchain >> Solidity (Hardhat, Foundry), Rust (Near, Solana), Go (Cosmos)
 - Mobile >> React-Native
 - Data Streaming >> Apache Kafka
-- DevOps >> Docker
+- DevOps >> Docker, Kubernetes, Helm, Prometheus, Grafana, Ansible
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
