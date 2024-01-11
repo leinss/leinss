@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Tobias Leinss </h1>
 
+<h3 align="center">Co-Founder of <a href="https://datalatte.com">datalatte.com</a>, Web3 Engineer of <a href="https://blockscape.network">blockscape.network</a></h3>
 <h3 align="center">A Full-Stack Software Engineer, who is now passionately working on Web3 and blockchain related projects</h3>
 <h3 align="center">Let us work together in this fascinating new ecospace 🚀 !</h3>
 
