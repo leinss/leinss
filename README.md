@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Tobias Leinss </h1>
 
-<h3 align="center">Co-Founder of <a href="https://datalatte.com">datalatte.com</a>, Web3 Engineer of <a href="https://blockscape.network">blockscape.network</a></h3>
-<h3 align="center">👨‍💻 fullstack engineer UI, backend, smart contracts, data pipelines, devops, some ai ✈️ traveling mostly between 🇩🇪 and 🇹🇭</h3>
+<h3 align="center">👷 Building innovative solutions in Web3 and AI 👨‍💻 Full-Stack Engineer specializing in UI, backend, smart contracts, devops and AI integration</h3>
+
+<h3 align="center">My experience spans web, mobile apps, data streaming, AI and blockchain-focused decentralized apps (dApps), and I’m always excited to collaborate on groundbreaking projects.
+</h3>
+
 <h3 align="center">Let us work together in this fascinating new ecospace 🚀 !</h3>
 
 <div style="margin-top: 16px;" />
