@@ -48,7 +48,7 @@ My toolset:
 - Data Streaming >> Apache Kafka
 - DevOps >> Docker, Kubernetes, Helm, Prometheus, Grafana, Ansible
 - AI / LLM / Agents >> langchain, langgraph, crewai
-- Languages >> Mostly typescript, python, and a bit of Go, Rust, solidity and Thai :p
+- Languages >> Mostly typescript, python, and a bit of Go, Rust, Solidity and Thai :p
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
