@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h4>Your go-to expert for building next-gen tech solutions.</h4>
 
-<div style="margin-top: 16px;" />
+<div style="margin-top: 50px;" />
 
 <section>
 <p>
@@ -35,6 +35,8 @@ Here are some ideas to get you started:
   AI-powered product, or a Web3 platform, I'm here to help bring your
   vision to life with cutting-edge tools and technologies.
 </p>
+
+<div style="margin-top: 50px;" />
 
 <p>
 <strong>💻 What I Do</strong>
@@ -91,6 +93,8 @@ Here are some ideas to get you started:
   building the future!
 </p>
 
+<div style="margin-top: 50px;" />
+
 <p>
   <strong>💡 Why Work With Me?</strong>
 
@@ -111,9 +115,11 @@ Here are some ideas to get you started:
 </p>
 </section>
 
+<div style="margin-top: 50px;" />
+
 <p>
   Reach out via <a href="mailto:dev@leinss.xyz">email</a>, visit my website <a href="https://leinss.xyz">leinss.xyz</a> or connect with me on 
-  <a href="https://linkedin.com/in/tobias-leinss">LinkedIn</a> / <a href="https://twitter/com/t_leinss">Twitter</a> for a
+  <a href="https://linkedin.com/in/tobias-leinss">LinkedIn</a> / <a href="https://twitter.com/t_leinss">Twitter</a> for a
   quick chat about your next big project.<br />Let’s make some tech
   magic happen! 🔮
 </p>
