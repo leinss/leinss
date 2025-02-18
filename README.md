@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **leinss/leinss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,88 +15,132 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Tobias Leinss </h1>
+<h4 align="left">Hi 👋, I'm Tobias Leinss </h4>
 
-<h3 align="center">👷 Building innovative solutions in Web3 and AI 👨‍💻 Full-Stack Engineer specializing in UI, backend, smart contracts, devops and AI integration</h3>
-
-<h3 align="center">My experience spans web, mobile apps, data streaming, AI and blockchain-focused decentralized apps (dApps), and I’m always excited to collaborate on groundbreaking projects.
-</h3>
-
-<h3 align="center">Let us work together in this fascinating new ecospace 🚀 !</h3>
+<h4>Your go-to expert for building next-gen tech solutions.</h4>
 
 <div style="margin-top: 16px;" />
 
-<h3 align="center">You can reach me by email at inquiry 'at' leinss 'dot' xyz</h3>
-
-<div style="margin-top: 48px;" />
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-leinss/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/t_leinss)
-[![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fleinss.xyz)](https://leinss.xyz)
-
-<div style="margin-top: 48px;" />
-
-### Experience & tools I use
-
-My experience includes web and mobile apps as well as data streaming applications and blockchain focused decentralized apps.
-
-My toolset:
-
-- Web >> Reactjs & Nodejs & Python through REST & GraphQL APIs
-- Blockchain >> Solidity (Hardhat, Foundry), Rust (Near, Solana), Go (Cosmos)
-- Mobile >> React-Native
-- Data Streaming >> Apache Kafka
-- DevOps >> Docker, Kubernetes, Helm, Prometheus, Grafana, Ansible
-- AI / LLM / Agents >> langchain, langgraph, crewai
-- Languages >> Mostly typescript, python, and a bit of Go, Rust, Solidity and Thai :p
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="20" height="20"/> 
-  
-  <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react" width="20" height="20"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react-native" width="20" height="20"/> 
-  
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/> 
-  
-  <img src="https://img.icons8.com/metro/26/000000/html-filetype.png" alt="html" width="20" height="20"/> 
-  <img src="https://img.icons8.com/metro/26/000000/css-filetype.png" alt="css" width="20" height="20"/> 
-  
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="20" height="20"/> 
-  
-  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="react-redux" width="20" height="20"/> 
-  
-  <img src="https://img.icons8.com/nolan/64/api-settings.png" alt="rest-api" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql" width="20" height="20"/> 
+<section>
+<p>
+  As a full-stack software engineer with a passion for Web3,
+  Blockchain and AI technologies, I specialize in turning innovative
+  ideas into reality. I collaborate with forward-thinking companies
+  and entrepreneurs to craft scalable, decentralized solutions that
+  shape the future of tech.
 </p>
 
+<p>
+  Whether you're working on a groundbreaking decentralized app, an
+  AI-powered product, or a Web3 platform, I'm here to help bring your
+  vision to life with cutting-edge tools and technologies.
+</p>
+
+<p>
+<strong>💻 What I Do</strong>
+
+  <ul>
+    <li>
+      Web & Mobile Development: Scalable, high-performance apps with
+      React, Node.js, React Native, and Python.
+    </li>
+    <li>
+      Blockchain Development: Build and deploy decentralized apps
+      (dApps) using Solidity, Rust, Go, and more.
+    </li>
+    <li>
+      AI Solutions: Implement LLMs, Agents, and data-driven
+      decision-making systems using LangChain, LangGraph, and
+      cutting-edge AI tools.
+    </li>
+    <li>
+      Data & Streaming: Real-time data streaming and management with
+      Apache Kafka.
+    </li>
+    <li>
+      DevOps & Automation: Optimizing systems with Docker, Kubernetes,
+      Helm, and CI/CD pipelines.
+    </li>
+  </ul>
+</p>
+
+<p>
+  <strong>🌟 My Approach</strong>
+
+  <ul>
+    <li>
+      I focus on delivering innovative, decentralized solutions that
+      solve real-world problems.
+    </li>
+    <li>
+      I thrive on collaboration and enjoy working alongside visionary
+      teams to build scalable, future-proof technology.
+    </li>
+    <li>
+      Transparent communication and delivering results on time are my
+      top priorities.
+    </li>
+  </ul>
+</p>
+
+<p class="animate mt-2">
+  Let's make something amazing together! 🚀 I’m always open to
+  exploring new opportunities, and I’d love to hear about your project
+  or business needs. Feel free to reach out to me via email at
+  <a href="mailto:dev@leinss.xyz">dev@leinss.xyz</a>, and let’s start
+  building the future!
+</p>
+
+<p>
+  <strong>💡 Why Work With Me?</strong>
+
+  <ul>
+    <li>
+      Proven expertise in the technologies that drive the future of
+      the internet 🌐.
+    </li>
+    <li>
+      A passion for delivering high-impact projects that align with
+      your goals 🎯.
+    </li>
+    <li>
+      A proactive, solution-oriented approach to every project I take
+      on 🔥.
+    </li>
+  </ul>
+</p>
+</section>
+
+<p>
+  Reach out via <a href="mailto:dev@leinss.xyz">email</a>, visit my website <a href="https://leinss.xyz">leinss.xyz</a> or connect with me on 
+  <a href="https://linkedin.com/in/tobias-leinss">LinkedIn</a> / <a href="https://twitter/com/t_leinss">Twitter</a> for a
+  quick chat about your next big project.<br />Let’s make some tech
+  magic happen! 🔮
+</p>
 
 <!--
-[🔭 Find out what I’m currently working on](https://leinss.xyz/now)  
+[🔭 Find out what I’m currently working on](https://leinss.xyz/now)
 -->
 
 <div style="margin-top: 50px;"></div>
 
-## The summary of my repos
+<!-- ## The summary of my repos
 
 ### Blockchain / crypto / web3 - mostly tutorials
 
-- [Solidity](https://github.com/leinss/solidity/)  
-- [Udacity Blockchain Developer Nanodegree](https://github.com/leinss/udacity_blockchain_developer)  
-- [Encode Club - Solidity Bootcamp](https://github.com/leinss/encode-club-solidity-bootcamp/)  
-- [DEX](https://github.com/leinss/dex/)  
-- [Near](https://github.com/leinss/near/)  
-- [Solana](https://github.com/leinss/solana/)  
-- [Aptos / Move](https://github.com/leinss/aptos_move/)  
-- [Polkadot / Substrate](https://github.com/leinss/polkadot_substrate/)  
-- [ZK Bootcamp](https://github.com/leinss/encode_zk_bootcamp/)  
+- [Solidity](https://github.com/leinss/solidity/)
+- [Udacity Blockchain Developer Nanodegree](https://github.com/leinss/udacity_blockchain_developer)
+- [Encode Club - Solidity Bootcamp](https://github.com/leinss/encode-club-solidity-bootcamp/)
+- [DEX](https://github.com/leinss/dex/)
+- [Near](https://github.com/leinss/near/)
+- [Solana](https://github.com/leinss/solana/)
+- [Aptos / Move](https://github.com/leinss/aptos_move/)
+- [Polkadot / Substrate](https://github.com/leinss/polkadot_substrate/)
+- [ZK Bootcamp](https://github.com/leinss/encode_zk_bootcamp/)
 
 ### Web3 Hackathons
 
-[EthGlobal Paris - zkPaymaster](https://ethglobal.com/showcase/zkpaymaster-dbooj). Enhancing account abstraction paymaster with zero-knowledge to enable any form of sponsorship of transaction fees in a private preserving way. Ethereum Foundation - Best ERC-4337, Sismo - Top 5, Biconomy - Best Use, MakerDAO - 2nd Best use of sDAI. 
+[EthGlobal Paris - zkPaymaster](https://ethglobal.com/showcase/zkpaymaster-dbooj). Enhancing account abstraction paymaster with zero-knowledge to enable any form of sponsorship of transaction fees in a private preserving way. Ethereum Foundation - Best ERC-4337, Sismo - Top 5, Biconomy - Best Use, MakerDAO - 2nd Best use of sDAI.
 
 [EthGlobal HackFS Peer'n Pay](https://ethglobal.com/showcase/peer-n-pay-hc2hz). Bringing together p2p protocol and ethereum payments. Push Protocol - Top 20, ENS - Integration Prize.
 
@@ -116,20 +160,20 @@ I am participating in the [NEAR MetaBUILD III Hack](https://metabuild.devpost.co
 
 Growing out of [EthLisbon](https://www.ethlisbon.org/) we continue buidling our project [Embrace Community](https://lets.embrace.community/), [see here](https://github.com/embrace-community/embrace-dapp) for the code base.
 
-- [DAOs for Artists](https://github.com/leinss/DAO_for_artists)  
-- [Web3 Communities](https://github.com/leinss/web3_communities) (solo)  
-- [Avatar Marketplace](https://github.com/leinss/avatar_nft_marketplace) (solo)  
-- [Inveth - DeFi Investing for N0bs](https://github.com/leinss/invetht)  
+- [DAOs for Artists](https://github.com/leinss/DAO_for_artists)
+- [Web3 Communities](https://github.com/leinss/web3_communities) (solo)
+- [Avatar Marketplace](https://github.com/leinss/avatar_nft_marketplace) (solo)
+- [Inveth - DeFi Investing for N0bs](https://github.com/leinss/invetht)
 
 ### Coding Challenges
 
-- [Rick'n Morty (NextJs, GraphQL, Hasura, TypeScript)](https://github.com/leinss/rick_n_morty_coding_challenge)  
-- [Project Euler](https://github.com/leinss/project_euler/) 
+- [Rick'n Morty (NextJs, GraphQL, Hasura, TypeScript)](https://github.com/leinss/rick_n_morty_coding_challenge)
+- [Project Euler](https://github.com/leinss/project_euler/)
 
 ### Data Science
 
 - [Exercises](https://github.com/leinss/data_science_machine_learning)
-- [DeepLearning.ai](https://github.com/leinss/deeplearning-ai) & [Machine Learning Stanford](https://github.com/leinss/machine-learning-stanford)  
+- [DeepLearning.ai](https://github.com/leinss/deeplearning-ai) & [Machine Learning Stanford](https://github.com/leinss/machine-learning-stanford)
 
 #### Forks
 
@@ -212,4 +256,4 @@ Growing out of [EthLisbon](https://www.ethlisbon.org/) we continue buidling our 
 - [Simple NodeJS Blockchain](https://github.com/leinss/BrewChain)
 - [Git CI CD](https://github.com/leinss/git-ci-cd)
 - [Learn Github](https://github.com/leinss/lGithub), [Shell](https://github.com/leinss/shell)
-- [Tkinter](https://github.com/leinss/tkinter)
+- [Tkinter](https://github.com/leinss/tkinter) -->
