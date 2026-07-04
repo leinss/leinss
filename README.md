@@ -40,11 +40,21 @@ prizes from the **Ethereum Foundation, ENS, The Graph, Optimism** and others.
 
 </details>
 
-### Recent builds
+### Apps
 
-- **taggr** — self-hosted, privacy-first image tagging: bulk auto-tagging with a **local LLM** (Ollama); every image and label stays on your own machine.
-- **kAIros** — AI-guided goal-tracking mobile app: frame a goal through conversation, break it into steps, stay on track with reminders and nudges.
-- **finanzplanr** — financial planning for the DACH region: household budgeting with AI-powered bank-statement parsing, on web and mobile from one backend.
+These days I mostly build **privacy-first, on-device apps** — data stays on your device, and any
+AI feature is optional and uses a key you bring yourself. No accounts, no telemetry, no lock-in.
+
+| App | What it is | Platform |
+| --- | --- | --- |
+| **[TobiBoard](https://leinss.xyz/projects/TobiBoard/)** · [repo](https://github.com/leinss/TobiBoard) | On-device Android keyboard with opt-in, bring-your-own-key AI voice-to-text & text fix | Android |
+| **[TobiVoice](https://leinss.xyz/projects/TobiVoice/)** | Native macOS voice-to-text that transcribes on local models, fully offline | macOS |
+| **[TobiReader](https://leinss.xyz/projects/TobiReader/)** | Local-first RSS/Atom reader with on-device read-aloud and self-hosted sync | Android |
+| **[TobiRecord](https://leinss.xyz/projects/TobiRecord/)** | Open-source screen recorder & editor — auto-zoom, cursor polish, styled frames | macOS · Windows · Linux |
+| **[TobiBar](https://leinss.xyz/projects/TobiBar/)** | macOS menu-bar manager to hide, show and organise menu-bar items | macOS |
+| **[kAIros](https://leinss.xyz/projects/kAIros/)** | AI-guided goal tracking: conversational setup, reminders, progress | iOS · Android |
+| **[finanzplanr](https://leinss.xyz/projects/finanzplanr/)** | Financial planning for the DACH region with AI bank-statement parsing | Web · Mobile |
+| **[taggr](https://leinss.xyz/projects/taggr/)** | Self-hosted image tagging with a local LLM (Ollama) — data stays on your machine | Web (self-hosted) |
 
 ### Stack
 
