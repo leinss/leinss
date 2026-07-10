@@ -1,123 +1,51 @@
 <h1 align="center">Tobias Leinss</h1>
 
-<p align="center">Full-stack engineer · Web3 · Blockchain · AI</p>
+<p align="center">Senior full-stack &amp; infrastructure engineer — I build privacy-first, on-device AI apps and ship the infra under them.</p>
 
 <p align="center">
-  <a href="https://leinss.xyz"><img alt="Website" src="https://img.shields.io/badge/leinss.xyz-2b3137?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tobias-leinss"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/t_leinss"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:dev@leinss.xyz"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leinss.xyz">leinss.xyz</a> ·
+  <a href="https://leinss-consulting.de">leinss-consulting.de</a> ·
+  <a href="https://www.linkedin.com/in/tobias-leinss">LinkedIn</a> ·
+  <a href="mailto:dev@leinss.xyz">dev@leinss.xyz</a>
 </p>
 
 ---
 
-I build decentralized and AI-powered products end to end — smart contracts, backends, and the
-interfaces on top. Much of my Web3 work started at hackathons, where projects I helped build won
-prizes from the **Ethereum Foundation, ENS, The Graph, Optimism** and others.
+I design, build and run products end to end — the frontend, the backend, and the infrastructure they sit on. My focus is **privacy-first software with optional, bring-your-own-key AI**: data stays on the user's device, AI features are opt-in, and there's no telemetry or lock-in. Where it adds value I also wire in AI and web3, but the product — not the buzzword — leads.
 
-### Selected work
+### Apps I ship
 
-| Project | What it is | Recognition |
-| --- | --- | --- |
-| **[zkPaymaster](https://ethglobal.com/showcase/zkpaymaster-dbooj)** | Zero-knowledge account-abstraction paymaster enabling private sponsorship of transaction fees | 🥇 **Ethereum Foundation — Best ERC-4337** · Sismo Top 5 · Biconomy Best Use · MakerDAO 2nd (sDAI) — *ETHGlobal Paris* |
-| **[Peer'n Pay](https://ethglobal.com/showcase/peer-n-pay-hc2hz)** | Peer-to-peer protocol meets Ethereum payments | **ENS Integration Prize** · Push Protocol Top 20 — *ETHGlobal HackFS* |
-| **[Turtleshell](https://devfolio.co/projects/turtleshell-efef)** | Brings smart-contract security data on-chain — transparent, composable, programmable | **The Graph — Best use of Subgraphs** · Taiko · Mantle · Scroll — *EthPrague* |
-| **[Caffeine Consensus](https://devfolio.co/projects/caffeine-consensus-ee2b)** | Account abstraction + X.509 PKI for gasless enterprise/government transactions | **2nd place & Judges' favourite** — *EthZurich* |
-| **[SPN DAO](https://ethglobal.com/showcase/spn-dao-zwbar)** | Data DAO giving consumers ownership of their transaction data (FEVM / Filecoin) | **Runner-up, Best use case** — *ETHGlobal FEVM* |
-
-<details>
-<summary>More hackathon projects</summary>
-
-- **[Turtleshell](https://ethglobal.com/showcase/turtleshell-cs506)** — on-chain contract-security data · *Optimism & The Graph prizes, ETHGlobal Lisbon*
-- **StealthSend** — transactional privacy on L2s via stealth addresses (ERC-5564 / ERC-6538) · *EthDam*
-- **Grayskull Guardians** — solo-staking protocol with sybil resistance and MEV smoothing · *ETHGlobal Istanbul*
-- **Sharknado** — anonymous surveys via zero-knowledge proofs · *EthRome*
-- **Deadcaster** — decentralized, secure dead-man's switch · *EthBerlin*
-- **[Calimocho](https://github.com/leinss/Calimocho)** — Ethereum Attestation Service helping DAOs standardize digital trust · *Nearcon Lisbon*
-- **EtherGuild** — a community to fund Ethereum-based projects · *ETHGlobal Agentic Ethereum*
-- **[Embrace Community](https://github.com/embrace-community/embrace-dapp)** — community/DAO dapp grown out of *EthLisbon*
-- **[GroundOne](https://github.com/GroundOne/metabuild)** — *NEAR MetaBUILD III*
-
-</details>
-
-### Apps
-
-These days I mostly build **privacy-first, on-device apps** — data stays on your device, and any
-AI feature is optional and uses a key you bring yourself. No accounts, no telemetry, no lock-in.
+Privacy-first, on-device apps. Data stays local; any AI is optional and uses a key you bring yourself.
 
 | App | What it is | Platform |
 | --- | --- | --- |
-| **[TobiBoard](https://leinss.xyz/projects/TobiBoard/)** · [repo](https://github.com/leinss/TobiBoard) | On-device Android keyboard with opt-in, bring-your-own-key AI voice-to-text & text fix | Android |
+| **[TobiBoard](https://leinss.xyz/projects/TobiBoard/)** · [repo](https://github.com/leinss/TobiBoard) | On-device Android keyboard with opt-in, bring-your-own-key AI voice-to-text &amp; text fix | Android |
 | **[TobiVoice](https://leinss.xyz/projects/TobiVoice/)** | Native macOS voice-to-text that transcribes on local models, fully offline | macOS |
 | **[TobiReader](https://leinss.xyz/projects/TobiReader/)** | Local-first RSS/Atom reader with on-device read-aloud and self-hosted sync | Android |
-| **[TobiRecord](https://leinss.xyz/projects/TobiRecord/)** | Open-source screen recorder & editor — auto-zoom, cursor polish, styled frames | macOS · Windows · Linux |
+| **[TobiRecord](https://leinss.xyz/projects/TobiRecord/)** | Open-source screen recorder &amp; editor — auto-zoom, cursor polish, styled frames | macOS · Windows · Linux |
 | **[TobiBar](https://leinss.xyz/projects/TobiBar/)** | macOS menu-bar manager to hide, show and organise menu-bar items | macOS |
 | **[kAIros](https://leinss.xyz/projects/kAIros/)** | AI-guided goal tracking: conversational setup, reminders, progress | iOS · Android |
 | **[finanzplanr](https://leinss.xyz/projects/finanzplanr/)** | Financial planning for the DACH region with AI bank-statement parsing | Web · Mobile |
 | **[taggr](https://leinss.xyz/projects/taggr/)** | Self-hosted image tagging with a local LLM (Ollama) — data stays on your machine | Web (self-hosted) |
 
-### Stack
+More on each at **[leinss.xyz](https://leinss.xyz)**.
 
-**Web &amp; mobile**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Consulting
 
-**Blockchain**  
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-**AI**  
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**Infra**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-### GitHub
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=leinss&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-    <img alt="Tobias Leinss' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=leinss&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0969da&text_color=24292f&icon_color=0969da" />
-  </picture>
-</p>
-
----
-
-I also run **[Leinss Consulting](https://leinss-consulting.de)** — generative-AI solutions for the German Mittelstand.
+Through **[Leinss Consulting](https://leinss-consulting.de)** I help teams plug AI into real products and stand up the infrastructure to run it.
 
 <details>
-<summary>📚 Learning &amp; reference repositories</summary>
+<summary>Earlier: web3 &amp; hackathons</summary>
 
-**Blockchain** ·
-[Solidity](https://github.com/leinss/solidity) ·
-[Udacity Blockchain Developer](https://github.com/leinss/udacity_blockchain_developer) ·
-[Encode Solidity Bootcamp](https://github.com/leinss/encode-club-solidity-bootcamp) ·
-[ZK Bootcamp](https://github.com/leinss/encode_zk_bootcamp) ·
-[Near](https://github.com/leinss/near) ·
-[Solana](https://github.com/leinss/solana) ·
-[Aptos / Move](https://github.com/leinss/aptos_move) ·
-[Polkadot / Substrate](https://github.com/leinss/polkadot_substrate)
+<br>
 
-**AI &amp; ML** ·
-[DeepLearning.ai](https://github.com/leinss/deeplearning-ai) ·
-[Machine Learning (Stanford)](https://github.com/leinss/machine-learning-stanford) ·
-[Full Stack Deep Learning](https://github.com/leinss/fsdl-text-recognizer-project) ·
-[Udacity Data Engineering](https://github.com/leinss/20_udacity_dse) ·
-[Udacity Deep RL](https://github.com/leinss/19_udacity_drlnd) ·
-[Udacity AI](https://github.com/leinss/18_udacity_aind)
+Much of my earlier work was on Ethereum, built at hackathons — projects I helped ship won prizes from the Ethereum Foundation, ENS, The Graph, Optimism and others. A few highlights:
 
-**Foundations** ·
-[Algorithms &amp; Data Structures](https://github.com/leinss/algos_data_structures) ·
-[System Design Primer](https://github.com/leinss/system-design-primer) ·
-[Docker &amp; Kubernetes](https://github.com/leinss/docker-kubernetes) ·
-[Rust](https://github.com/leinss/rust)
+- **[zkPaymaster](https://ethglobal.com/showcase/zkpaymaster-dbooj)** — private, ZK account-abstraction paymaster · *EF Best ERC-4337, ETHGlobal Paris*
+- **[Peer'n Pay](https://ethglobal.com/showcase/peer-n-pay-hc2hz)** — peer-to-peer Ethereum payments · *ENS Integration Prize, ETHGlobal HackFS*
+- **[Turtleshell](https://devfolio.co/projects/turtleshell-efef)** — on-chain smart-contract security data · *The Graph Best Subgraphs, EthPrague*
+- **[Caffeine Consensus](https://devfolio.co/projects/caffeine-consensus-ee2b)** — account abstraction + X.509 PKI for gasless enterprise txns · *2nd place, EthZurich*
+
+Web3 is a channel and a toolkit for me now, not the offer.
 
 </details>
