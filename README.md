@@ -41,10 +41,10 @@ Through **[Leinss Consulting](https://leinss-consulting.de)** I help teams plug 
 
 Much of my earlier work was on Ethereum, built at hackathons — projects I helped ship won prizes from the Ethereum Foundation, ENS, The Graph, Optimism and others. A few highlights:
 
-- **[zkPaymaster](https://ethglobal.com/showcase/zkpaymaster-dbooj)** — private, ZK account-abstraction paymaster · *EF Best ERC-4337, ETHGlobal Paris*
-- **[Peer'n Pay](https://ethglobal.com/showcase/peer-n-pay-hc2hz)** — peer-to-peer Ethereum payments · *ENS Integration Prize, ETHGlobal HackFS*
-- **[Turtleshell](https://devfolio.co/projects/turtleshell-efef)** — on-chain smart-contract security data · *The Graph Best Subgraphs, EthPrague*
-- **[Caffeine Consensus](https://devfolio.co/projects/caffeine-consensus-ee2b)** — account abstraction + X.509 PKI for gasless enterprise txns · *2nd place, EthZurich*
+- **[Peer'n Pay](https://ethglobal.com/showcase/peer-n-pay-hc2hz)** — peer-to-peer Ethereum payments dapp · *ENS Integration Prize, ETHGlobal HackFS*
+- **[Turtleshell](https://devfolio.co/projects/turtleshell-efef)** — on-chain smart-contract security data dapp · *The Graph Best Subgraphs, EthPrague*
+- **[zkPaymaster](https://ethglobal.com/showcase/zkpaymaster-dbooj)** — private, ZK account-abstraction paymaster contract · *EF Best ERC-4337, ETHGlobal Paris*
+- **[Caffeine Consensus](https://devfolio.co/projects/caffeine-consensus-ee2b)** — account-abstraction contracts + X.509 PKI for gasless enterprise txns · *2nd place, EthZurich*
 
 Web3 is a channel and a toolkit for me now, not the offer.
 
