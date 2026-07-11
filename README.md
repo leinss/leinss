@@ -1,6 +1,6 @@
 <h1 align="center">Tobias Leinss</h1>
 
-<p align="center">Senior full-stack &amp; infrastructure engineer — I build privacy-first, on-device AI apps and ship the infra under them.</p>
+<p align="center">Full-stack &amp; infrastructure engineer — I build privacy-first, on-device AI apps and ship the infra under them.</p>
 
 <p align="center">
   <a href="https://leinss.xyz">leinss.xyz</a> ·
