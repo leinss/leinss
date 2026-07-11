@@ -1,6 +1,6 @@
 <h1 align="center">Tobias Leinss</h1>
 
-<p align="center">Full-stack &amp; infrastructure engineer — I build privacy-first, on-device AI apps and ship the infra under them.</p>
+<p align="center">Custom-tailored software &amp; infrastructure — AI integration, automation, self-hosting, web3. Built, documented, yours. The privacy-first apps below are the proof.</p>
 
 <p align="center">
   <a href="https://leinss.xyz">leinss.xyz</a> ·
