@@ -1,6 +1,6 @@
 <h1 align="center">Tobias Leinss</h1>
 
-<p align="center">Senior software engineer. I build backend services and run the infrastructure they sit on.</p>
+<p align="center">Senior software engineer. I take a system from the interface to production, and keep it running there.</p>
 
 <p align="center">
   <a href="https://leinss.xyz">leinss.xyz</a> ·
@@ -11,7 +11,7 @@
 
 ---
 
-I take a system from interface to production and keep it running there. Today that is the backend and the full infrastructure behind the [Circles protocol](https://aboutcircles.com) at [Gnosis](https://www.gnosis.io): four services written from the first commit, thirty-eight Ansible roles deploying blockchain nodes and PostgreSQL with automated failover, and the observability stack over the top. Before that, product frontends and data engineering, so I own the whole path rather than one layer of it.
+Product frontends, backend services, data platforms, and the infrastructure all of it runs on. I have worked every one of those layers, which is why I can carry a feature end to end instead of handing it over at each boundary. The current focus is the backend and the full infrastructure behind the [Circles protocol](https://aboutcircles.com) at [Gnosis](https://www.gnosis.io): four services written from the first commit, thirty-eight Ansible roles deploying blockchain nodes and PostgreSQL with automated failover, and the observability stack over the top.
 
 Alongside that I ship privacy-first apps on one rule: data stays on the user's device, and any AI feature runs against a local model or a key you bring yourself. No telemetry, no lock-in.
 
@@ -20,8 +20,10 @@ Alongside that I ship privacy-first apps on one rule: data stays on the user's d
 | App | What it is | Platform |
 | --- | --- | --- |
 | **[TobiBoard](https://leinss.xyz/projects/TobiBoard/)** · [repo](https://github.com/leinss/TobiBoard) | On-device Android keyboard with opt-in, bring-your-own-key AI voice-to-text &amp; text fix | Android |
+| **[TobiTerm](https://leinss.xyz/projects/TobiTerm/)** · [repo](https://github.com/leinss/tobiterm-bootstrap) | Android terminal for driving coding agents on remote machines, over a session that survives the walk to the train | Android |
 | **[TobiVoice](https://leinss.xyz/projects/TobiVoice/)** | Native macOS voice-to-text that transcribes on local models, fully offline | macOS |
 | **[TobiReader](https://leinss.xyz/projects/TobiReader/)** | Local-first RSS/Atom reader with on-device read-aloud and self-hosted sync | Android |
+| **[TobiSound](https://leinss.xyz/projects/TobiSound/)** | Music player for your own servers and local files: gapless playback, offline, Chromecast, Auto and TV, no accounts | Android |
 | **[TobiRecord](https://leinss.xyz/projects/TobiRecord/)** | Open-source screen recorder and editor: auto-zoom, cursor polish, styled frames | macOS · Windows · Linux |
 | **[TobiBar](https://leinss.xyz/projects/TobiBar/)** | macOS menu-bar manager to hide, show and organise menu-bar items | macOS |
 | **[kAIros](https://leinss.xyz/projects/kAIros/)** | AI-guided goal tracking: conversational setup, reminders, progress | iOS · Android |
