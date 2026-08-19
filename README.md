@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://leinss.xyz">leinss.xyz</a> ·
   <a href="https://www.linkedin.com/in/tobias-leinss">LinkedIn</a> ·
-  <a href="https://leinss-consulting.de">leinss-consulting.de</a> ·
+  <a href="https://consulting.leinss.xyz">consulting.leinss.xyz</a> ·
   <a href="mailto:dev@leinss.xyz">dev@leinss.xyz</a>
 </p>
 
@@ -34,7 +34,7 @@ TobiBoard is released and open source. The rest are in private testing. More on 
 
 ### Consulting
 
-I also run **[Leinss Consulting](https://leinss-consulting.de)**, building web products and process automation for small businesses.
+I also run **[Leinss Consulting](https://consulting.leinss.xyz)**, building web products and process automation for small businesses.
 
 <details>
 <summary>Earlier: web3 and hackathons</summary>
